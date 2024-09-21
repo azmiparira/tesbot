@@ -8,10 +8,5 @@ Cara Menjalakan Script
 - pip install tqdm
 4. jalankan toolsnya
 
-Penjelasan Menu Tools
-[1] Generate Mnemonic+PrivKey+Address = buat generate 
-[2] Make PrivKey+Wallet Form  Mnemonic = yang ini kalo anda punya list mnemonic mau buat di ubah jadi privkey+address untuk check balance
-[3] Check Balance USDT|BUSD|BNB = yah jelas buat check balance, yang di cek disini USDT|BUSD|BNB tambah sendiri modify kode checkbalance.py
 
-
-Semoga JP 0.0000001% :V
+SORRY BANG GW UP DISINI,KALO DI TERMINAL EROR TERUS
